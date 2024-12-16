@@ -4,13 +4,16 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=qurreee&label=Profile%20views&color=bf4a3f&style=flat" alt="qurreee" /> </p>
 
 ======================================================================================
-
+<div align="center">
+  <img src="assets/Screenshot%202024-12-03%20233941.png" alt="Screenshot" width="45%">
+</div>
+<br><br>
 <div align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=qurreee&theme=kacho_ga&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
   </a>
 </div>
-
+<br><br>
 <div align="center">
   <a href="">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qurreee&layout=compact&theme=kacho_ga" alt="Top Languages">
