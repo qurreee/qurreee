@@ -1,3 +1,4 @@
+<img align="center" height="230" src="https://github.com/qurreee/qurreee/blob/main/assets/gitbanner.png"  />
 <h2 align="left">Hi 👋! My name is Faiqurrijal Tamhidy and I'm a Game Developer, from Malang, East Java</h2>
 
 ###
